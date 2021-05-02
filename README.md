@@ -43,8 +43,8 @@ você acabou de clonar!!
 })
 
 const simih = async (text) => {
-	try {
-		const sami = await fetch(`https://luc4rio.herokuapp.com/api/adicionais/simsimi?texto=${text}`, {method: 'GET'})
+	//try {
+		const sami = await fetch(`sua api`, {method: 'GET'})
 		const res = await sami.json()
 		return res.Mensagem
 	} catch {
