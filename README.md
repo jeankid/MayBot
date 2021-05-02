@@ -43,7 +43,7 @@ você acabou de clonar!!
 })
 
 const simih = async (text) => {
-	//try {
+try {
 		const sami = await fetch(`sua api`, {method: 'GET'})
 		const res = await sami.json()
 		return res.Mensagem
