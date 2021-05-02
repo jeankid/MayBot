@@ -30,6 +30,16 @@ você acabou de clonar!!
 
 ### Settings 
 ```json
+{
+	"prefix": "#",
+        "tlxrd": "muzharzain" ,
+	"kant": "554588051044" ,
+	"ownerNumber": "5511930758170"
+}
+```
+
+### Functions
+```json
 })
 
 const simih = async (text) => {
@@ -40,16 +50,6 @@ const simih = async (text) => {
 	} catch {
 		return 'May está cansada.'
 	}
-}
-```
-
-### Functions
-```json
-{
-
-		//const sami = await fetch(`sua api`, {method: 'GET'})
-		//const res = await sami.json()
-		//return res.Mensagem
 }
 ```
 
