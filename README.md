@@ -32,7 +32,7 @@ você acabou de clonar!!
 ```json
 {
 	"prefix": "#",
-    "apilol": "sua key" ,
+        "apilol": "sua key" ,
 	"apitobz": "sua api" ,
 	"ownerNumber": "seu número"
 }
@@ -41,13 +41,10 @@ você acabou de clonar!!
 ### Functions
 ```json
 {
-	const simih = async (text) => {
-	try {
-		const sami = await fetch(`sua api`, {method: 'GET'})
-		const res = await sami.json()
-		return res.Mensagem
-	} catch {
-		return 'May está cansada.'
+
+		//const sami = await fetch(`sua api`, {method: 'GET'})
+		//const res = await sami.json()
+		//return res.Mensagem
 }
 ```
 
