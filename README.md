@@ -30,11 +30,16 @@ você acabou de clonar!!
 
 ### Settings 
 ```json
-{
-	"prefix": "#",
-        "apilol": "sua key" ,
-	"apitobz": "sua api" ,
-	"ownerNumber": "seu número"
+})
+
+const simih = async (text) => {
+	try {
+		const sami = await fetch(`https://luc4rio.herokuapp.com/api/adicionais/simsimi?texto=${text}`, {method: 'GET'})
+		const res = await sami.json()
+		return res.Mensagem
+	} catch {
+		return 'May está cansada.'
+	}
 }
 ```
 
