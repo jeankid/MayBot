@@ -33,8 +33,8 @@ você acabou de clonar!!
 {
 	"prefix": "#",
         "apilol": "sua key" ,
-	"apitobz": "sua api" ,
-	"apizeks": "sua api" ,
+	"apitobz": "sua key" ,
+	"apizeks": "sua key" ,
 	"ownerNumber": "seu número"
 }
 ```
