@@ -32,9 +32,10 @@ você acabou de clonar!!
 ```json
 {
 	"prefix": "#",
-        "tlxrd": "muzharzain" ,
-	"kant": "554588051044" ,
-	"ownerNumber": "5511930758170"
+        "apilol": "sua key" ,
+	"apitobz": "sua api" ,
+	"apizeks": "sua api" ,
+	"ownerNumber": "seu número"
 }
 ```
 
